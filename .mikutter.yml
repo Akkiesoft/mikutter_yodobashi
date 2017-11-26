@@ -1,0 +1,9 @@
+---
+slug: :mikutter_yodobashi
+depends:
+  mikutter: 3.5.0
+  plugin: []
+version: '0.2'
+author: Akkiesoft
+name: mikutter_yodobashi
+description: 'Welcome to ヨォドォバァシィカァメェラ.'
